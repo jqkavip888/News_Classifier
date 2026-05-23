@@ -1,4 +1,5 @@
 # 中文新闻分类实验 Chinese News Classification
+*这只是个作业而已 it is just a homework*
 
 **个人项目 · THUCNews 子集 · BERT / FastText / 知识蒸馏**
 Personal Project · THUCNews Subset · BERT / FastText / Knowledge Distillation

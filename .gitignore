@@ -1,0 +1,25 @@
+# macOS 系统文件
+.DS_Store
+
+# Python 临时文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# IDE 配置文件
+.vscode/
+.idea/
+
+# 模型文件
+*.pt
+*.bin
+
+# 日志文件
+*.log
